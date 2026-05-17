@@ -1,9 +1,9 @@
 import React from 'react'
 import Header from './component/Header'
 import Hero from './component/Hero'
-import Character from './component/character'
 import Arena from './component/Arena'
 import Footer from './component/Footer'
+import Character from './component/Character'
 
 const App = () => {
   return (
